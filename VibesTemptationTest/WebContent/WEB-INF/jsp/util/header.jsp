@@ -16,6 +16,10 @@
     <!-- Custom CSS -->
     <link href="design/css/style.css" rel="stylesheet">
 
+    <!-- Icone de l'onglet -->
+    <link rel=icon href=favicon.png sizes="16x16" type="image/png">
+	<link rel="shortcut icon" href="../../../design/src/favicon.ico" type="image/x-icon">
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -53,7 +57,10 @@
                         <a href="#">Contact</a>
                     </li>
                     <li>
-                        <a href="#">Subscribe</a>
+                        <a href="#">Sign in</a>
+                    </li>
+                    <li>
+                        <a href="#">Log in</a>
                     </li>
                 </ul>
                 <form class="navbar-form navbar-right inline-form">
