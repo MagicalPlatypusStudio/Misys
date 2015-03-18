@@ -57,9 +57,6 @@
                         <a href="#">Contact</a>
                     </li>
                     <li>
-                        <a href="#">Sign in</a>
-                    </li>
-                    <li>
                         <a href="#">Log in</a>
                     </li>
                 </ul>

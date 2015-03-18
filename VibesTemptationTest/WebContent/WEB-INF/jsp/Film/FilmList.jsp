@@ -1,4 +1,4 @@
-<jsp:include page="util/header.jsp"/>
+<jsp:include page="../util/header.jsp"/>
 
 
 <!-- Page Content -->
@@ -7,7 +7,7 @@
         <div class="row">
 
             <div class="col-md-3">
-                <h1 id="title">Misys</h1>
+                <h1 id="title">Films</h1>
                 <div class="list-group">
                     <a href="#" class="list-group-item">Music</a>
                     <a href="#" class="list-group-item">Films</a>
@@ -53,28 +53,6 @@
                         <div class="thumbnail">
                             <img src="http://placehold.it/320x150" alt="">
                             <div class="caption">
-                                <h4><a href="#">Indochine - Paradize</a></h4>
-                                <br/>
-                                <h4 class="pull-right">10.00&euro;</h4>
-                                <p>Make today the acquisition of one of the best album from Indochine</p>
-                            </div>
-                            <div class="ratings">
-                                <p class="pull-right">2 reviews</p>
-                                <p>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star-empty"></span>
-                                    <span class="glyphicon glyphicon-star-empty"></span>
-                                    <span class="glyphicon glyphicon-star-empty"></span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-4 col-lg-4 col-md-4">
-                        <div class="thumbnail">
-                            <img src="http://placehold.it/320x150" alt="">
-                            <div class="caption">
                                 <h4><a href="#">The 5th element</a></h4>
                                 <br/>
                                 <h4 class="pull-right">5.00&euro;</h4>
@@ -92,28 +70,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-sm-4 col-lg-4 col-md-4">
-                        <div class="thumbnail">
-                            <img src="http://placehold.it/320x150" alt="">
-                            <div class="caption">
-                                <h4><a href="#">Queen - News of the world</a></h4>
-                                <br/>
-                                <h4 class="pull-right">40.00&euro;</h4>
-                                <p>The best album of Queen, this will rock you!</p>
-                            </div>
-                            <div class="ratings">
-                                <p class="pull-right">2 reviews</p>
-                                <p>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                    <span class="glyphicon glyphicon-star"></span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
                     
                 </div>
             </div>
@@ -121,4 +77,4 @@
     </div>
     <!-- /.container -->
 	
-<jsp:include page="util/footer.jsp"></jsp:include>
+<jsp:include page="../util/footer.jsp"></jsp:include>

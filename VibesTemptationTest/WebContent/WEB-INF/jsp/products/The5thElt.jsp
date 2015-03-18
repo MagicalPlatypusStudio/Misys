@@ -6,7 +6,7 @@
         <div class="row">
 
             <div class="col-md-3">
-                <h1 id="title">Misys</h1>
+                <h1 id="title">The 5th Element</h1>
                 <div class="list-group">
                     <a href="#" class="list-group-item active">Music</a>
                     <a href="#" class="list-group-item">Films</a>
@@ -18,17 +18,20 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/800x300" alt="">
                     <div class="caption-full">
-                        <h4 class="pull-right">$24.99</h4>
-                        <h4><a href="#">Product Name</a>
+                        <h4 class="pull-right">5.00&euro;</h4>
+                        <h4><a href="#">The 5th Element</a>
                         </h4>
-                        <p>See more snippets like these online store reviews at <a target="_blank" href="http://bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
-                        <p>Want to make these reviews work? Check out
-                            <strong><a href="http://maxoffsky.com/code-blog/laravel-shop-tutorial-1-building-a-review-system/">this building a review system tutorial</a>
-                            </strong>over at maxoffsky.com!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        <p>Unused DVD, still packed</p>
+                        <p>PLOT:<br/>
+                        In 1914, aliens known as Mondoshawans arrive at an ancient Egyptian temple to collect, for safekeeping, 
+                        the only weapon capable of defeating a great evil that appears every 5,000 years. The weapon consists 
+                        of four stones, representing the four classical elements, and a sarcophagus containing a fifth element 
+                        in the form of a human, which combines the power of the other four elements into a divine light capable 
+                        of defeating the evil. The Mondoshawans promise their human contact, a priest, that they will come back 
+                        with the element stones in time to stop the great evil when it returns.</p>
                     </div>
                     <div class="ratings">
-                        <p class="pull-right">3 reviews</p>
+                        <p class="pull-right">2 reviews</p>
                         <p>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
@@ -54,10 +57,10 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
+                            <span class="glyphicon glyphicon-star"></span>
+                            Céline Durand
                             <span class="pull-right">10 days ago</span>
-                            <p>This product was great in terms of quality. I would definitely buy another!</p>
+                            <p>Très bon film, DVD et boites en bon état, pas cher, nickel</p>
                         </div>
                     </div>
 
@@ -70,26 +73,12 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
+                            Julie Patout
                             <span class="pull-right">12 days ago</span>
-                            <p>I've alredy ordered another one!</p>
+                            <p>Bonne qualité du support, j’ai été déçu par le film</p>
                         </div>
                     </div>
 
-                    <hr>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
-                            <span class="pull-right">15 days ago</span>
-                            <p>I've seen some better than this, but not at this price. I definitely recommend this item.</p>
-                        </div>
-                    </div>
 
                 </div>
 

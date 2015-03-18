@@ -6,7 +6,7 @@
         <div class="row">
 
             <div class="col-md-3">
-                <h1 id="title">Misys</h1>
+                <h1 id="title">Queen - News of the world</h1>
                 <div class="list-group">
                     <a href="#" class="list-group-item active">Music</a>
                     <a href="#" class="list-group-item">Films</a>
@@ -18,24 +18,28 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/800x300" alt="">
                     <div class="caption-full">
-                        <h4 class="pull-right">$24.99</h4>
-                        <h4><a href="#">Product Name</a>
+                        <h4 class="pull-right">40.00&euro;</h4>
+                        <h4><a href="#">Queen - News of the world</a>
                         </h4>
-                        <p>See more snippets like these online store reviews at <a target="_blank" href="http://bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
-                        <p>Want to make these reviews work? Check out
-                            <strong><a href="http://maxoffsky.com/code-blog/laravel-shop-tutorial-1-building-a-review-system/">this building a review system tutorial</a>
-                            </strong>over at maxoffsky.com!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                        <p>Used vinyle, re-edited</p>
+                        <p>Informations:<br/>
+                        News of the World is the sixth studio album by British rock group Queen, released in 1977. 
+                        Containing the hit songs "We Will Rock You", "We Are the Champions" and "Spread Your Wings", 
+                        it went 4x platinum in the United States, 2x platinum in the United Kingdom and achieved high 
+                        certifications around the world.<br/>
+						News of the World was the second album to be produced solely by the band (the first being A 
+						Day at the Races) and recorded at Sarm West and Wessex Studios, London and co-produced and 
+						engineered by Mike Stone.</p>
                     </div>
                     <div class="ratings">
-                        <p class="pull-right">3 reviews</p>
+                        <p class="pull-right">2 reviews</p>
                         <p>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star-empty"></span>
-                            4.0 stars
+                            4.5 stars
                         </p>
                     </div>
                 </div>
@@ -55,9 +59,9 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
-                            <span class="pull-right">10 days ago</span>
-                            <p>This product was great in terms of quality. I would definitely buy another!</p>
+                            Céline Durand
+                            <span class="pull-right">24 days ago</span>
+                            <p>Génial, ce Vinyle réédité marche du tonnerre!</p>
                         </div>
                     </div>
 
@@ -69,27 +73,12 @@
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
                             <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
-                            <span class="pull-right">12 days ago</span>
-                            <p>I've alredy ordered another one!</p>
-                        </div>
+                            <span class="glyphicon glyphicon-star"></span>
+                            Julie Patout
+                            <span class="pull-right">19 days ago</span>
+                            <p>Avoir LE meilleur album de Queen en vinyle, ça c’est la classe!</p>
                     </div>
 
-                    <hr>
-
-                    <div class="row">
-                        <div class="col-md-12">
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star"></span>
-                            <span class="glyphicon glyphicon-star-empty"></span>
-                            Anonymous
-                            <span class="pull-right">15 days ago</span>
-                            <p>I've seen some better than this, but not at this price. I definitely recommend this item.</p>
-                        </div>
-                    </div>
 
                 </div>
 
