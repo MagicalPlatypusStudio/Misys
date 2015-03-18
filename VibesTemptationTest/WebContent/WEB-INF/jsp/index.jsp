@@ -14,7 +14,7 @@
                     <a href="#" class="list-group-item">Category 3</a>
                 </div>
             </div>
-
+<img src="../../../../../../WebContent/design/src/VibesTemptation_logo.png" alt="">
             <div class="col-md-9">
 
                 <div class="row carousel-holder">
@@ -28,7 +28,7 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="../../design/src/VibesTemptation_logo.png" alt="">
                                 </div>
                                 <div class="item">
                                     <img class="slide-image" src="http://placehold.it/800x300" alt="">
