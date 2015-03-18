@@ -28,13 +28,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="WebContent/design/src/Produits/QueenNOTW.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="../../design/src/Produits/5elt.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="../../design/src/Produits/IndochineP.jpg" alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
