@@ -1,4 +1,4 @@
-package com.mps.misys;
+package main.java.com.mps.misys;
 
 /**
  * Hello world!

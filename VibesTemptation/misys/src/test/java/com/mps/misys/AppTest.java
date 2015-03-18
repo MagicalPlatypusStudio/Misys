@@ -1,4 +1,4 @@
-package com.mps.misys;
+package test.java.com.mps.misys;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
